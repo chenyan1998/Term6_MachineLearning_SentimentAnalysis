@@ -5,7 +5,7 @@
 2020 Term6 *Group 15*
 
 ```
-Chenyan 1003620 
+Chen Yan 1003620 
 Pang Luying 1003631 
 Gladys Chua 1003585
 ```
